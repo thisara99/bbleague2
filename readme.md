@@ -75,7 +75,7 @@ On macOS and Linux:
 
 ### Set up the database:
 
-    python manage.py migrate 
+    python manage.py makemigrations 
     python manage.py migrate 
 
 ### reate a superuser :
