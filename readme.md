@@ -106,4 +106,4 @@ Open your web browser and go to http://127.0.0.1:8000/.
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 ### Contact
-Your Name - thisarais@gmail.com
+Thisara De Silva - thisarais@gmail.com
