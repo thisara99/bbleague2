@@ -60,47 +60,46 @@ This REST API provides a robust solution for managing a basketball tournament, e
 Create and activate a virtual environment:
 
 On Windows:
-sh
-Copy code
-python -m venv venv
-.\venv\Scripts\activate
+
+    python -m venv venv
+    .\venv\Scripts\activate
+
 On macOS and Linux:
 
-python3 -m venv venv
-source venv/bin/activate
-Install the dependencies:
+    python3 -m venv venv
+    source venv/bin/activate
 
-pip install -r requirements.txt
+### Install the dependencies:
 
-Set up the database:
+    pip install -r requirements.txt
 
-python manage.py migrate :
+### Set up the database:
 
-Create a superuser :
+    python manage.py migrate 
+    python manage.py migrate 
+
+### reate a superuser :
 
     python manage.py createsuperuser
 
 
-Run the development server:
+### Run the development server:
 
     python manage.py runserver
 
 ## Usage
 
     Running the Application
-To start the development server, run:
+### To start the development server, run:
 
     python manage.py runserver
 
 ### Accessing the Application
 Open your web browser and go to http://127.0.0.1:8000/.
 
-API Endpoints
-The project includes a RESTful API for managing resources. Here are some example 
+### swagger:
 
-swagger:
-
-http://localhost:8000/swagger/
+      http://localhost:8000/swagger/
 
 
 ### License
