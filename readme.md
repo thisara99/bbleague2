@@ -55,7 +55,7 @@ This REST API provides a robust solution for managing a basketball tournament, e
 
 1. **Clone the repository**:
    ```sh
-   git clone [https://github.com/thisara99/bbleague2.git](https://github.com/thisara99/bbleague2.git)
+   git clone https://github.com/thisara99/bbleague2.git
    cd bbleague
 Create and activate a virtual environment:
 
