@@ -102,8 +102,5 @@ Open your web browser and go to http://127.0.0.1:8000/.
       http://localhost:8000/swagger/
 
 
-### License
-This project is licensed under the MIT License - see the LICENSE file for details.
-
 ### Contact
 Thisara De Silva - thisarais@gmail.com
